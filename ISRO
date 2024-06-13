@@ -1,9 +1,0 @@
-DRDO VECH
-new@DESTOP-8GBPO3H MINGW64 /e/DevSecOps-pp
-$ git clone https://github.com/saikumardevsecops/aws-code.git
-Cloning into 'aws-code'...
-warning: You appear to have cloned an empty repository.
-
-new@DESTOP-8GBPO3H MINGW64 /e/DevSecOps-pp
-$ pwd
-/e/DevSecOps-pp
