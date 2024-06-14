@@ -8,7 +8,7 @@ if [ $# -gt 0 ]; then
 else
     cowsay "You Have Given $# paramters to this script, please provide arg Eg.us-east-1."
 fi
-
-
+fi
+fi
 
 
