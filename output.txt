@@ -9,3 +9,7 @@ df -h
 youngtiger
 ls -al
 iconstar
+sss
+ACE
+NCL
+AMAZON
